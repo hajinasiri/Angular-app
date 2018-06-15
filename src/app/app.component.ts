@@ -8,3 +8,4 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Tour of Heroes';
 }
+// here goes the comment to commit as the end of step 4
